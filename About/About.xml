@@ -11,6 +11,7 @@
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Royalty</li>
 		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Sierra.Milkshakes.Core</li>
 	</loadAfter>
 	<description>
 [h1]Mod Version: v1.0[/h1]
@@ -25,7 +26,7 @@ This mod adds a new craftable recreation/luxury food (like chocolate).
 [list]
 [*]Chocolate Milkshakes (Recreation/Luxury Food)
 [/list]
-
+Grants Mood Buff (3) for 30 hours after consumption.
 
 [b]Compatibility:[/b]
 [list]

@@ -29,7 +29,7 @@
     </statBases>
     <tickerType>Rare</tickerType>
     <thingCategories>
-      <li>Foods</li>
+      <li>Sierra_Milkshakes</li>
     </thingCategories>
     <ingestible>
       <preferability>DesperateOnly</preferability>
