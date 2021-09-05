@@ -9,7 +9,7 @@
       <texPath>Things/Item/Resource/Sierra_ChocolateMilkshake</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
       <drawSize>0.88</drawSize>
-      <color>(135,100,80)</color>
+      <!--<color>(135,100,80)</color>-->
     </graphicData>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
