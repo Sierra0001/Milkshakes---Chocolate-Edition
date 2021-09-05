@@ -18,9 +18,9 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/ChocolateMilkshakes/releases/tag/v1.0)
+- [Current Version](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition/releases/tag/v1.0)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2591782692)
-- [GitHub](https://github.com/Sierra0001/Milkshakes)
+- [GitHub](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition)
 
 ### Credits
 
