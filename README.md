@@ -1,4 +1,4 @@
-# Chocolate Milkshakes
+# Milkshakes - Chocolate Edition
 
 My milkshake brings all the modders to the yard.
 
