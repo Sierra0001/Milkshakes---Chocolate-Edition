@@ -32,3 +32,4 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 
 - [RimWorld 1.3] RimWorld 1.3 Ready. (v1.0)
 - [Release] Initial release. (v1.0)
+- [Change] Removed LoadFolder.xml and depreciated the use of Conditional folder. (v1.0.1)
