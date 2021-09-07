@@ -1,6 +1,6 @@
 # LICENSE
 
-All contents with the exception of XML files are licensed under the CC BY-NC-ND 4.0 License. This license is applicable to distributed copies and may not be removed.
+All contents with the exception of XML files and artwork using publicly released Ludeon art assets are licensed under the CC BY-NC-ND 4.0 License. This license is applicable to distributed copies and may not be removed.
 
 To view a copy of the license, visit:
 [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode]

@@ -20,9 +20,8 @@
     </costList>
     <statBases>
       <MaxHitPoints>60</MaxHitPoints>
-      <MarketValue>5</MarketValue>
+      <MarketValue>5.5125</MarketValue> <!-- Milk x1.5 (1.9) + Chocolate x1.5 (3) -> 75% -->
       <Mass>0.075</Mass>
-      <!--<WorkToMake>450</WorkToMake>-->
       <Flammability>1.0</Flammability>
       <DeteriorationRate>16</DeteriorationRate>
       <Nutrition>0.6</Nutrition>
@@ -35,7 +34,7 @@
       <preferability>DesperateOnly</preferability>
 			<tasteThought>Sierra_Thought_DrankChocolateMilkshake</tasteThought>
       <foodType>Processed</foodType>
-      <joy>0.65</joy>
+      <joy>0.60</joy>
       <joyKind>Gluttonous</joyKind>
       <maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
       <ingestSound>Meal_Eat</ingestSound>
