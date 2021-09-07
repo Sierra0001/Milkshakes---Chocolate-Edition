@@ -14,7 +14,7 @@
 		<li>Sierra.Milkshakes.Core</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.0.1[/h1]
+[h1]Mod Version: v1.0.2[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -32,6 +32,7 @@ Grants Mood Buff (3) for 30 hours after consumption.
 [b]Recommended Mods:[/b]
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2591782692]Milkshakes[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595706669]Milkshakes - Ambrosia Edition[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595120517]Milkshakes - Berry Edition[/url]
 [/list]
 
@@ -68,6 +69,12 @@ Wow, so balanced.
 [b]v1.0.1[/b]
 [list]
 [*][Change] Removed LoadFolder.xml and depreciated the use of Conditional folder.
+[/list]
+
+[b]v1.0.2[/b]
+[list]
+[*][Fix] Bulk recipe now uses appropriate amount of ingredients.
+[*][Buff] Market value is now appropriate to the material costs.
 [/list]
 	</description>
 </ModMetaData>
