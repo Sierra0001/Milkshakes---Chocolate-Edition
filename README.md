@@ -8,7 +8,7 @@ This mod adds a new craftable recreation/luxury food.
 
 - Chocolate Milkshakes (Recreation/Luxury Food)
 
-Grants Mood Buff (3) for 30 hours after consumption.
+Grants Mood Buff (3) for 24 hours after consumption.
 
 ### Balance
 
