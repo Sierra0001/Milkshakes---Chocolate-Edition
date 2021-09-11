@@ -14,7 +14,7 @@
 		<li>Sierra.Milkshakes.Core</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.0.2[/h1]
+[h1]Mod Version: v1.1[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -81,6 +81,12 @@ Wow, so balanced.
 [list]
 [*][Fix] Bulk recipe now uses appropriate amount of ingredients.
 [*][Buff] Market value is now appropriate to the material costs.
+[/list]
+
+[b]v1.1[/b]
+[list]
+[*][Fix] Pawns will now willingly drink milkshake for recreation.
+[*][Change] Milkshake consumption is now it's own JoyKind.
 [/list]
 	</description>
 </ModMetaData>

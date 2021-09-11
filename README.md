@@ -20,7 +20,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition/releases/tag/v1.0.2)
+- [Current Version](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition/releases/tag/v1.1)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2594428074)
 - [GitHub](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition)
 
@@ -35,3 +35,5 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 - [Change] Removed LoadFolder.xml and depreciated the use of Conditional folder. (v1.0.1)
 - [Fix] Bulk recipe now uses appropriate amount of ingredients. (v1.0.2)
 - [Buff] Market value is now appropriate to the material costs. (v1.0.2)
+- [Fix] Pawns will now willingly drink milkshake for recreation. (v1.1)
+- [Change] Milkshake consumption is now it's own JoyKind. (v1.1)
