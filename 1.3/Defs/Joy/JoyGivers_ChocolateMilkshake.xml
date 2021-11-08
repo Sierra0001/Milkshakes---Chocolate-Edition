@@ -9,6 +9,9 @@
       <li MayRequire="Sierra.Milkshakes.Milk">Sierra_Milkshake</li>
       <li MayRequire="Sierra.Milkshakes.Ambrosia">Sierra_AmbrosiaMilkshake</li>
       <li MayRequire="Sierra.Milkshakes.Berries">Sierra_BerryMilkshake</li>
+      <li MayRequire="Sierra.Milkshakes.BlueberriesStrawberries">Sierra_MixedBerryMilkshake</li>
+      <li MayRequire="Sierra.Milkshakes.BlueberriesStrawberries">Sierra_BlueberryMilkshake</li>
+      <li MayRequire="Sierra.Milkshakes.BlueberriesStrawberries">Sierra_StrawberryMilkshake</li>
       <li>Sierra_ChocolateMilkshake</li>
     </thingDefs>
     <joyKind>Sierra_Drinking_Milkshake</joyKind>

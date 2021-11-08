@@ -20,7 +20,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition/releases/tag/v1.2)
+- [Current Version](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition/releases/tag/v1.2.1)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2594428074)
 - [GitHub](https://github.com/Sierra0001/Milkshakes---Chocolate-Edition)
 
@@ -41,3 +41,4 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 - [Buff] Chocolate milkshake value increased from 5 to 11.
 - [Buff] Chocolate milkshake nutrition increased from 0.15 to 0.30.
 - [Nerf] Chocolate milkshake joy gain decreased from 0.60 to 0.25.
+- [Update] Added support for Milkshake - Blueberry & Strawberry Edition
